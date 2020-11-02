@@ -1,2 +1,6 @@
 second commit
+<<<<<<< HEAD
 quatrième merge
+=======
+premier pull
+>>>>>>> main
